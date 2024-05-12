@@ -7,7 +7,7 @@
             }
         ],
         "Category": "Online Services",
-        "Description": "Add a google search on your desktop.",
+        "Description": "Add a google translater on your desktop.",
         "Icon": "applications-internet",
         "Id": "com.samirgaire10.GoogleTranslater-plasma6",
         "License": "GPL-2.0+",
