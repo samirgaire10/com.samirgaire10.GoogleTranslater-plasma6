@@ -86,7 +86,7 @@ PlasmoidItem {
 
                     profile: googletranslaterprofile
 
-                }
+                
                 Connections {
                     target: plasmoid.configuration
 
